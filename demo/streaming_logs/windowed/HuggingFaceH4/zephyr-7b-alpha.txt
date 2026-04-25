@@ -3707,4 +3707,3 @@ Suggest five award-winning documentary films with brief background descriptions 
 With the spirit in the first film, craft a succinct and persuasive pitch for a film about overcoming adversity.</s> 
 <|assistant|>
 "In the tradition of 'Man on Wire,' our documentary film follows the inspiring story of a young woman who defied all odds to become a world-class athlete. Born with a rare condition that left her unable to walk, she refused to let her disability define her. Through grit, determination, and a fierce will to succeed, she overcame seemingly insurmountable obstacles to become a trailblazer in her sport. Our film not only celebrates her incredible achievements but also delves into the emotional and psychological toll that her journey has taken on her. With stunning cinematography and intimate interviews, we aim to create a powerful and moving portrait of a true hero."</s> 
-
